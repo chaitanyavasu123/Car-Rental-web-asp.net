@@ -1,0 +1,4 @@
+# .gitignore file for ASP.NET Core and Angular
+bin/
+obj/
+node_modules/

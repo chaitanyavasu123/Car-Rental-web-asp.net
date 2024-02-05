@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\CarRentalBackend",
+    "\\CarRentalBackend\\Controllers",
+    "\\DataAccessLayer"
+  ],
+  "SelectedNode": "\\CarRentalBackend\\Controllers\\CarsController.cs",
+  "PreviewInSolutionExplorer": false
+}
